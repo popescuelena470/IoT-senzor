@@ -1,0 +1,68 @@
+
+.............................................................................................
+47. Detaliile tehnice ale senzorului sunt: necunoscute . Durata vietii ai acestuia este  0 ani, iar timpul de actionare este de   0 milisecunde.
+Date de localizare: Judetul  necunoscut , Orasul necunoscut , Strada  necunoscuta , Nr. 0
+Numarul de RidicariTemperatura este:   1 ori , iar gradele la care a fost ridicat sunt 25.6, Temperatura potrivita selectata este : 0 grade C 
+, este amplasat in nrcunoscut , iar distanta dintre el st ceilalti senzori este de 0
+Senzorul nu este conectat, va rugam sa verificati conexiunea !
+.............................................................................................
+
+
+.............................................................................................
+48. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  3 ori , iar intre interactiuni senzorul a fost resetat de 1, 4, 3,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
+.............................................................................................
+49. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  3 ori , iar intre interactiuni senzorul a fost resetat de 1, 4, 3,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
+.............................................................................................
+50. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  6 ori , iar intre interactiuni senzorul a fost resetat de 0, 2, 1, 0, 0, 0,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
+
+.............................................................................................
+47. Detaliile tehnice ale senzorului sunt: necunoscute . Durata vietii ai acestuia este  0 ani, iar timpul de actionare este de   0 milisecunde.
+Date de localizare: Judetul  necunoscut , Orasul necunoscut , Strada  necunoscuta , Nr. 0
+Numarul de RidicariTemperatura este:   1 ori , iar gradele la care a fost ridicat sunt 25.6, Temperatura potrivita selectata este : 0 grade C 
+, este amplasat in nrcunoscut , iar distanta dintre el st ceilalti senzori este de 0
+Senzorul nu este conectat, va rugam sa verificati conexiunea !
+.............................................................................................
+
+
+.............................................................................................
+48. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  3 ori , iar intre interactiuni senzorul a fost resetat de 1, 4, 3,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
+.............................................................................................
+49. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  3 ori , iar intre interactiuni senzorul a fost resetat de 1, 4, 3,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
+.............................................................................................
+50. Detaliile tehnice ale senzorului sunt: Senzor incendiu . Durata vietii ai acestuia este  20 ani, iar timpul de actionare este de   5 milisecunde.
+Date de localizare: Judetul   Valcea , Orasul Ramnicu Valcea , Strada  Calea pacanelelor , Nr. 8
+Numarul de interactiuni cu senzorul este  6 ori , iar intre interactiuni senzorul a fost resetat de 0, 2, 1, 0, 0, 0,  este amplasat in sufragerie , iar distanta dintre el si ceilalti senzori este de 10.5
+ Senzorul este conectat cu succces!
+.............................................................................................
+
+
